@@ -33,3 +33,10 @@
 
 # vs code
 .vscode
+
+# codeblocks
+*.layout
+*.depend
+*.cbp
+bin/
+obj/
